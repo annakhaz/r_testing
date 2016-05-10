@@ -6,4 +6,4 @@ dependencies:
 test:
   override:
     - Rscript demean_age.R participants.tsv
-    - Rscript demena_age.R participants_nosub4.tsv
+    - Rscript demean_age.R participants_nosub4.tsv
